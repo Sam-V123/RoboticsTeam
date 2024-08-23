@@ -2,4 +2,4 @@
 
 ## mr potatoe 
 
-## opening a bag if chips it is mobile
+## shooting things
