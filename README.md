@@ -1,6 +1,6 @@
 # Birds aren't real
-##Sam
-###Coder
+## Sam
+### Coder
 ## mr potatoe 
 
 ## shooting things
