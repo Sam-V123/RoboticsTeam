@@ -1,8 +1,8 @@
 # Birds aren't real
 ## Sam
-* ### Coder
-* ### Decumenter
-* ### backup builder
+*  Coder
+*  Decumenter
+*  backup builder
 ## Walker
 * Mechanical engineer/ builder
 * documenter
