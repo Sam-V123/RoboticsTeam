@@ -1,6 +1,8 @@
 # Birds aren't real
 ## Sam
-### Coder
+* ### Coder
+* ### Decumenter
+* ### backup builder
 ## mr potatoe 
 
 ## shooting things
