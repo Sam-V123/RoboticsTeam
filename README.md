@@ -11,4 +11,4 @@
 
 ## mr potatoe 
 
-## shooting things
+## shooting ping-pong balls into a trash can with a double flywheel.
