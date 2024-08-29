@@ -1,8 +1,7 @@
 # Birds aren't real
 ## Sam
-*  Coder
-*  Decumenter
-*  backup builder
+*  Primary Coder: coding basically everything
+*  backup builder, will help buld with code in mind.
 ## Walker
 * Mechanical engineer/ builder
 * documenter
