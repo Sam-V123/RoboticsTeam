@@ -4,8 +4,9 @@
 *  backup builder, will help buld with code in mind.
 ## Walker
 * Mechanical engineer/ builder
+* Designs and builds the robot’s physical structure.
+* Works on the drivetrain, chassis, and any mechanical systems (e.g., arms, lifts, grippers).
 * documenter
-* experiment with CAD
 * Documentet team progress
 ## Ronan
 * Driver
