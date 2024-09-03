@@ -7,7 +7,7 @@
  We want our bot to pick up ping pong balls, store it, and then maneuver around to specified locations to shoot target(s).
 
 ## Members:
-### Sam
+### Sam M
 *  Primary Coder: main coding and testing for the build
 *  backup builder, will help buld with code in mind.
 *  De-bugging and woring through and unseen problems
