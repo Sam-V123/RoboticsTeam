@@ -19,7 +19,9 @@
 * Documentet team progress
 ### Ronan
 * Driver
+* drives and operates the gun
 * specialist
+* makes the plans
 *  ## Memphis
 * Mechanical engineer/ builder
 * Designs and builds the robot’s physical structure.
