@@ -20,6 +20,9 @@
 ### Ronan
 * Driver
 * specialist
+*  ## Memphis
+* Mechanical engineer/ builder
+* Designs and builds the robot’s physical structure.
 ### Sam V
 * Mechanical engineer/ Builder
 * Works on the drivetrain, chassis, and any mechanical systems (e.g., arms, lifts, grippers).
