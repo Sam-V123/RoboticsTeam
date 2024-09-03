@@ -1,17 +1,19 @@
 #  Team name: Birds aren't real
 ## Bot name: Mr potatoe 
-### purpose: shooting ping-pong balls into a trash can with a double flywheel.
-## Sam
+ Purpose: shooting ping-pong balls into a trash can with a double flywheel. Chassis: tank drive shaft 
+
+## Members:
+### Sam
 *  Primary Coder: main coding and testing for the build
 *  backup builder, will help buld with code in mind.
 *  De-bugging and woring through and unseen problems
-## Walker
+### Walker
 * Mechanical engineer/ builder
 * Designs and builds the robot’s physical structure.
 * Works on the drivetrain, chassis, and any mechanical systems (e.g., arms, lifts, grippers).
 * documenter
 * Documentet team progress
-## Ronan
+### Ronan
 * Driver
 * specalist
 
