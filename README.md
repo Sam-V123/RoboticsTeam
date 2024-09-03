@@ -1,4 +1,6 @@
-# Birds aren't real
+#  Team name: Birds aren't real
+## Bot name: Mr potatoe 
+### purpose: shooting ping-pong balls into a trash can with a double flywheel.
 ## Sam
 *  Primary Coder: main coding and testing for the build
 *  backup builder, will help buld with code in mind.
@@ -12,6 +14,6 @@
 ## Ronan
 * Driver
 * specalist
-## mr potatoe 
 
-## shooting ping-pong balls into a trash can with a double flywheel.
+
+
