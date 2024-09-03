@@ -1,6 +1,10 @@
 #  Team name: Birds aren't real
 ## Bot name: Mr potatoe 
- Purpose: shooting ping-pong balls into a trash can with a double flywheel. Chassis: tank drive shaft 
+ Purpose: shooting ping-pong balls into a trash can with a double flywheel.
+ * Chassis: U shaped chassis for easy shooting and loading.
+ * Drive system: tank drive system, easy for manovering and works with our chassis
+ * Shooting mechanisim: Double fly wheel, for speed and acuracy schooting.
+ We want our bot to pick up ping pong balls, store it, and then maneuver around to specified locations to shoot target(s).
 
 ## Members:
 ### Sam
