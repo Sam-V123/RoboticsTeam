@@ -2,8 +2,8 @@
 ## Bot name: Mr potatoe 
  Purpose: shooting ping-pong balls into a trash can with a double flywheel.
  * Chassis: U shaped chassis for easy shooting and loading.
- * Drive system: tank drive system, easy for manovering and works with our chassis
- * Shooting mechanisim: Double fly wheel, for speed and acuracy schooting.
+ * Drive system: tank drive system, easy for maneuvering and works with our chassis
+ * Shooting mechanism: Double flywheel, for speed and accuracy shooting.
  We want our bot to pick up ping pong balls, store it, and then maneuver around to specified locations to shoot target(s).
 
 ## Members:
@@ -19,7 +19,10 @@
 * Documentet team progress
 ### Ronan
 * Driver
-* specalist
+* specialist
 
+
+![First Drawings](https://github.com/user-attachments/assets/528eb90e-a6a7-4680-9db9-25cb488d34b1)
+![Second Group of Drawings](https://github.com/user-attachments/assets/cf22a359-7096-438e-b8e8-2364a3b96f80)
 
 
