@@ -1,7 +1,8 @@
 # Birds aren't real
 ## Sam
-*  Primary Coder: coding basically everything
+*  Primary Coder: main coding and testing for the build
 *  backup builder, will help buld with code in mind.
+*  De-bugging and woring through and unseen problems
 ## Walker
 * Mechanical engineer/ builder
 * Designs and builds the robot’s physical structure.
